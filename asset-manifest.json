@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/resource-dashboard/static/css/main.6ef318c5.chunk.css",
+    "main.js": "/resource-dashboard/static/js/main.990ecab2.chunk.js",
+    "main.js.map": "/resource-dashboard/static/js/main.990ecab2.chunk.js.map",
+    "runtime-main.js": "/resource-dashboard/static/js/runtime-main.d11064d6.js",
+    "runtime-main.js.map": "/resource-dashboard/static/js/runtime-main.d11064d6.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/resource-dashboard/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fe6eef1e.chunk.js": "/resource-dashboard/static/js/2.fe6eef1e.chunk.js",
+    "static/js/2.fe6eef1e.chunk.js.map": "/resource-dashboard/static/js/2.fe6eef1e.chunk.js.map",
+    "static/js/3.a33543d1.chunk.js": "/resource-dashboard/static/js/3.a33543d1.chunk.js",
+    "static/js/3.a33543d1.chunk.js.map": "/resource-dashboard/static/js/3.a33543d1.chunk.js.map",
+    "index.html": "/resource-dashboard/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/resource-dashboard/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6ef318c5.chunk.css.map": "/resource-dashboard/static/css/main.6ef318c5.chunk.css.map",
+    "static/js/2.fe6eef1e.chunk.js.LICENSE.txt": "/resource-dashboard/static/js/2.fe6eef1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d11064d6.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fe6eef1e.chunk.js",
+    "static/css/main.6ef318c5.chunk.css",
+    "static/js/main.990ecab2.chunk.js"
+  ]
+}
