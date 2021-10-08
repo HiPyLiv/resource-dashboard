@@ -9,7 +9,7 @@ const resource_data = {
                     "id": 0,
                     "title": "Getting Started with Python 1",
                     "description": "An introduction to fundamental programing concepts in Python",
-                    "link": "https://nbviewer.jupyter.org/github/HiPyLiv/HiPyProject/blob/overhaul/resources/python/basics/%5BBASICS%5D%20Getting%20Started%20With%20Python%201%20-%20The%20Basics/Getting%20Started%20In%20Python%201%20-%20The%20Basics.ipynb"
+                    "link": "https://colab.research.google.com/github/HiPyLiv/HiPyProject/blob/master/%5BBASICS%5D%20Getting%20Started%20With%20Python%201%20-%20The%20Basics/Getting%20Started%20In%20Python%201%20-%20The%20Basics.ipynb" 
                 },
                 "Getting Started 2":  {
                     "id": 1,
