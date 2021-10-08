@@ -15,7 +15,7 @@ const resource_data = {
                     "id": 1,
                     "title": "Getting Started with Python 2",
                     "description": "The next steps with Python - getting Python to automate the boring bits!",
-                    "link": "https://nbviewer.jupyter.org/github/HiPyLiv/HiPyProject/tree/overhaul/resources/python/basics/%5BBASICS%5D%20Getting%20Started%20With%20Python%202%20-%20The%20Basics/"
+                    "link": "https://colab.research.google.com/github/HiPyLiv/HiPyProject/blob/master/%5BBASICS%5D%20Getting%20Started%20With%20Python%202%20-%20The%20Basics/Getting%20Started%20With%20Python%202%20-%20The%20Basics.ipynb"
                 },
                 "Numpy and Pandas": {
                     "id": 2,
